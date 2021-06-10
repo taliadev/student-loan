@@ -1,4 +1,4 @@
 ---
-permalink: /index.html
+permalink: /student.html
 ---
 # taliadev.github.io
